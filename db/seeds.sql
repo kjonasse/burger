@@ -2,12 +2,12 @@
 
 INSERT INTO burgers (id,burger_name,devoured)
 VALUES 
-    (2,"Backyard BBQ",true),
-    (3,"All American",false),
-    (4,"Pickle Burger",true),
-    (5,"Cheddar",false),
-    (6,"Bacon Burger",true),
-    (7,"Veggie Burger",false),
-    (8,"BLT Burger",false),
-    (9,"Smothered Burger",true),
-    (10,"Chicken",true);
+    ("Backyard BBQ",true, "020417"),
+    ("All American",false, "020417"),
+    ("Pickle Burger",true, "020417"),
+    ("Cheddar",false, "020417"),
+    ("Bacon Burger",true, "020417"),
+    ("Veggie Burger",false, "020417"),
+    ("BLT Burger",false, "020417"),
+    ("Smothered Burger",true, "020417"),
+    ("Chicken",true, "020417");
